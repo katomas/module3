@@ -1,0 +1,64 @@
+
+html {
+	height: 100%
+}
+body {
+	background-image: url(images/homework-3.png); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+}
+.wrapper {
+	width: 480px;
+	padding: 20px;
+	background-color: white;
+	margin: 0 auto;
+
+}
+.font {
+	font-family: 'Pathway Gothic One', sans-serif;
+	color: #263555	
+}
+.new-font {
+	padding-top: 5px;
+	color: #263555;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
+}
+.color {
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
+ 	font-size: 15px;
+}
+.wrapper1 {
+	width: 480px;
+	padding: 0px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wrapper2 {
+	width: 480px;
+	padding: 0px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul {
+	columns: 2;
+	list-style-type: none;
+}
+
+li {
+	padding-top: 7px;
+	color: #263555;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+.line {
+	border-bottom: 1px solid grey; 
+	padding-bottom: 30px; 
+	margin-bottom: 30px;
+}

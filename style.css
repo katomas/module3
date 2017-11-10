@@ -1,0 +1,25 @@
+ul {
+	list-style-image: url(images/arrow3.png);
+	color: #263555;
+}
+li {
+	padding-left: 3px;
+}
+div {
+	width: 480px;
+	margin: auto;
+}
+
+.font {
+	font-family: 'Pathway Gothic One', sans-serif;
+	color: #263555;
+}
+.new-font {
+color: #263555;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Didact Gothic', sans-serif;
+}
+.uncolor {
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Didact Gothic', sans-serif;
+}
